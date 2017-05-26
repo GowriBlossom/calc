@@ -1,0 +1,29 @@
+*{
+box-sizing: border-box;}
+.display {
+    text-align: right;
+    border: none;
+    background-color: #ceeb95;
+    width: 11rem;
+    padding: .5rem;
+font-size: 1rem;    
+
+    
+}
+
+.result {
+    text-align: right;
+    border: none;
+    background-color: #ceeb95;
+    height: 3rem;
+    width: 11rem;
+    font-size: 2.5rem;
+    padding: .5rem;
+    // box-shadow: 2px 2px 2px gray inset;
+}
+.frame{
+    border:1px solid gray;
+    width: 11.4rem;
+    padding: .1rem; 
+    background: black;  
+}
